@@ -5,6 +5,7 @@
 8 -> 2, 4, 6, 8
  */
 
+
 Console.Write("Введите число: ");
 int num_1 = Convert.ToInt32(Console.ReadLine());
 int count = 1;

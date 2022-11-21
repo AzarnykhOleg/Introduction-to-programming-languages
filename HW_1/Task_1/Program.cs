@@ -6,6 +6,7 @@ a = 2 b = 10->max = 10
 a = -9 b = -3->max = -3
 */
 
+
 Console.Write("Введите первое число: ");
 double num_1 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Введите второе число: ");

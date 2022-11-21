@@ -6,6 +6,7 @@
 22 3 9 -> 22
  */
 
+
 Console.Write("Введите первое число: ");
 double num_1 = Convert.ToDouble(Console.ReadLine());
 Console.Write("Введите второе число: ");

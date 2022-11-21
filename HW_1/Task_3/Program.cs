@@ -6,6 +6,7 @@
 7 -> нет
  */
 
+
 Console.Write("Введите число: ");
 double num_1 = Convert.ToDouble(Console.ReadLine());
 
